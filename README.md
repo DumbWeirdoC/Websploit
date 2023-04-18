@@ -24,11 +24,7 @@ $ python websploit.py
 install via `apt` coming soon ...
 
 Menu
------
 
-<p align="center">
-  <img width="893" height="533" src="https://github.com/websploit/images/raw/master/websploit-menu.png">
-</p>
 
 Select module :
 
@@ -58,7 +54,3 @@ wsf > arp_spoof > execute
 Meta
 ----
 
-Fardin Allahverdinazhand -  [\@0x0ptim0us](https://twitter.com/0x0ptim0us) - <0x0ptim0us@gmail.com>  Distributed under the MIT license. see  [LICENSE.txt](https://github.com/websploit/websploit/blob/master/LICENSE.txt)
-for more information.
-
-<https://github.com/websploit/websploit>
